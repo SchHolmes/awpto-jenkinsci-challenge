@@ -1,5 +1,10 @@
 package pl.edu.us.ii.awpwo;
 
+/**
+ * 
+ * @author Student
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
