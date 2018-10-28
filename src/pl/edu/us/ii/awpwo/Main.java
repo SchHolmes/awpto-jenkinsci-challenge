@@ -13,5 +13,4 @@ public class Main {
 		rocky.szczekaj();
 		cezar.szczekaj(); // Mala zmiana
 	}
-
 }

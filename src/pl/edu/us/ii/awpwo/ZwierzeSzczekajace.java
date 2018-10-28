@@ -9,5 +9,4 @@ public interface ZwierzeSzczekajace {
 	 * szczekaj().
 	 */
 	void szczekaj();
-
 }
