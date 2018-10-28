@@ -6,7 +6,7 @@ package pl.edu.us.ii.awpwo;
  */
 public class Bulterier extends Pies {
 	/**
-	 * szczekaj()
+	 * szczekaj().
 	 */
 	public void szczekaj() {
 		System.out.println("Rof rof rof!");

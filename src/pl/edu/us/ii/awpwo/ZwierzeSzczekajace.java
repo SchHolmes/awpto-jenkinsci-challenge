@@ -6,7 +6,7 @@ package pl.edu.us.ii.awpwo;
  */
 public interface ZwierzeSzczekajace {
 	/**
-	 * szczekaj()
+	 * szczekaj().
 	 */
 	void szczekaj();
 

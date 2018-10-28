@@ -6,7 +6,7 @@ package pl.edu.us.ii.awpwo;
  */
 public class Pies implements ZwierzeSzczekajace {
 	/**
-	 * szczekaj()
+	 * szczekaj().
 	 */
 	public void szczekaj() {
 		System.out.println("Hau hau hau!");
