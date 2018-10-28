@@ -1,7 +1,5 @@
 package pl.edu.us.ii.awpwo;
 
-public interface ZwierzeSzczekajace
-{
-	public
+public interface ZwierzeSzczekajace {
 	void szczekaj();
 }
