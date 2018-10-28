@@ -5,6 +5,10 @@ package pl.edu.us.ii.awpwo;
  *
  */
 public class Main {
+	/**
+	 * Main point of app.
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		Pies maksiu = new Pies();
 		Pies rocky = new Pitbull();

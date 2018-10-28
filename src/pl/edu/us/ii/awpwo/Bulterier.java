@@ -8,7 +8,7 @@ public class Bulterier extends Pies {
 	/**
 	 * szczekaj().
 	 */
-	public void szczekaj() {
+	public final void szczekaj() {
 		System.out.println("Rof rof rof!");
 	}
 }

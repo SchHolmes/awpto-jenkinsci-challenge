@@ -8,7 +8,7 @@ public class Pies implements ZwierzeSzczekajace {
 	/**
 	 * szczekaj().
 	 */
-	public void szczekaj() {
+	public final void szczekaj() {
 		System.out.println("Hau hau hau!");
 	}
 }
