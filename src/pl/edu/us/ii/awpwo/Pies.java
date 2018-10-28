@@ -1,7 +1,6 @@
 package pl.edu.us.ii.awpwo;
 
 /**
- * 
  * @author Student
  *
  */
